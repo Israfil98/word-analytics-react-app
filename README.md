@@ -1,8 +1,10 @@
-# React + Vite
+# Word Analytics App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built as part of a React & TypeScript course to practice frontend development patterns.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+React · TypeScript · Zustand · Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 Author
+**Israfil Guseinov** — Frontend Developer
+[LinkedIn](https://www.linkedin.com/in/israfil-guseinov/) · [GitHub](https://github.com/Israfil98)
